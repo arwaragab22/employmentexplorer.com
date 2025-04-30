@@ -1,0 +1,292 @@
+﻿
+
+
+body {
+}
+.mainbanner {
+           
+            background-size: cover !important;
+            /*background-position:center !important;*/
+            /*padding: 14% 0;*/
+            position: relative;
+            /*text-align: center;*/
+            color: #ffffff;
+            /*margin-top: 100px;*/
+            height: 400px;
+        }
+.lblMain {
+      /*text-align: center;*/
+  font-weight: bold;
+  font-size: Large;
+  /*margin: 0 0 20px;*/
+  color: #3c3c3c;
+  font-family: 'Droid Arabic Kufi', serif, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+   
+
+        .searchpanel {
+            width: 200px;
+            height: 100px;
+            background-color: white;
+            box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+            color: #004080;
+            text-align: center;
+            margin-right: 150px;
+            border-radius: 20px;
+            margin-top: 80px;
+        }
+
+        .searchButton {
+            color: white;
+            background-color: #004080;
+            box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+            border-radius: 10px;
+            height: 30px;
+            width: 140px;
+             font-family:'Droid Arabic Kufi', 'serif', 'Helvetica Neue', 'Helvetica', Arial, sans-serif;
+        }
+
+        .gridHeader {
+            text-align: center;
+            vertical-align: central;
+            /*background-color:#004080;*/
+            border-radius: 50px;
+            color: #004080;
+        }
+
+        .sidemenuItem {
+            text-align: center;
+            height: 30px;
+            padding-top: 8px;
+        }
+.lbl {
+    font-family:'Droid Arabic Kufi', serif, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.staticWord {
+    text-align:center; 
+    font-size:medium;
+    color:black; 
+    font-family:'Droid Arabic Kufi', serif, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding-bottom:40px;
+}
+.lblLogin {
+    
+    background-color:#940a1a;
+    color:white; 
+    vertical-align:central; 
+    text-align: center;
+    padding-top: 10px;
+    font-size:Large; 
+    font:bold;
+     height:40px;
+     font-family:'Droid Arabic Kufi', serif, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        
+}
+.dCon {
+     border-style: solid;
+     padding-bottom:10px;
+     margin-top: 150px; 
+     margin-bottom:30px;
+     border-width: thin;
+      border-color: #004080; 
+         width: 400px;
+}
+/*.txtp {
+    text-align: center;
+  
+    width: 250px;
+    height:50px;
+    
+     border-radius: 4px;
+  
+    font-size: small;
+    font-weight: bold;
+    font-family: 'Droid Arabic Kufi', serif, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}*/
+.RV {
+    color:red;
+    font-family: 'Droid Arabic Kufi', serif, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    /*z-index:3;*/
+}
+.dCon {
+     border-style: solid;
+     padding-bottom:10px;
+     margin-top: 150px; 
+     margin-bottom:30px;
+     border-width: thin;
+      border-color: #004080; 
+         width: 400px;
+}
+  .btnReg{
+  font-family: 'Droid Arabic Kufi', serif, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  display: inline-block;
+  color: #fff;
+  background: #940a1a;
+  /*font-weight: 100;*/
+  font-size:small;
+  text-decoration: none;
+  padding: 6px 15px;
+   border-radius: 4px;
+  border: 0;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+.btnReg:hover,
+.btnReg:focus {
+  color: #fff;
+  text-decoration: none;
+}  
+ .btnCreate{
+  font-family: 'Droid Arabic Kufi', serif, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  display: inline-block;
+  color: #fff;
+  background: #2e8932;
+  /*font-weight: 100;*/
+  font-size:small;
+  text-decoration: none;
+  padding: 6px 15px;
+   border-radius: 4px;
+  border: 0;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+} 
+ .lbl1{
+
+/*font-family: " custom_font_name-Bold";*/
+/*font-family:'Adobe Arabic';*/
+font-family: 'Droid Arabic Kufi', serif, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+color: #004080;
+
+font:bold;
+font-size: 16px;
+
+} 
+  .lbl2{
+
+/*font-family: " custom_font_name-Bold";*/
+/*font-family:'Adobe Arabic';*/
+font-family: 'Droid Arabic Kufi', serif, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+color: black;
+
+font:bold;
+font-size: 10pt;
+
+} 
+   .lblDDL{
+
+/*font-family: " custom_font_name-Bold";*/
+/*font-family:'Adobe Arabic';*/
+font-family: 'Droid Arabic Kufi', serif, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+color:black;
+
+
+/*color:#004080;*/
+
+} 
+  .lll {
+  /*text-align: center;*/
+  font-weight: bold;
+  font-size: Large;
+  /*margin: 0 0 20px;*/
+  /*color: #004080;*/
+  color:#940a1a;
+  font-family: 'Droid Arabic Kufi', serif, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+}
+.mycheckbox 
+{ 
+    margin-left: 20px; 
+}
+.ClndrEx
+{
+    z-index:1000 ;
+}
+
+@media screen and (max-width: 600px) {
+  /*.topnav a:not(:first-child) {display: none;}*/
+   .topnav.responsive {position: relative;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: right;
+  }
+}
+@media screen and (min-width: 601px) {
+  div.example {
+    font-size: 35px;
+  }
+}
+
+        @media screen and (max-width: 600px) {
+            div.example {
+                font-size: 20px;
+            }
+        }
+        .lblFooter {
+    font-family: 'Droid Arabic Kufi', serif, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+font:bold;
+/*miaa*/
+/*font-size: 10pt;*/
+color: white;
+font-size:medium;
+padding-top:5px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+   /*background-color: #2F4F4F;*/
+ background-color: #696969;
+  color: white;
+  /*text-align: justify;*/
+   font-family: 'Droid Arabic Kufi', serif, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #cec7c7;
+  
+}
+
+.topnav a {
+  /*float: right;*/
+  /*display: block;*/
+  color: #940a1a;
+  text-align: center;
+  padding: 14px 16px 14px 16px;
+  text-decoration: none;
+  /*font-size: 17px;*/
+  font-size: calc(0.50em + 0.75vw);
+  
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  /*background-color: #4CAF50;*/
+  color: #940a1a;
+}
+
+.topnav .icon {
+  display: none;
+}
